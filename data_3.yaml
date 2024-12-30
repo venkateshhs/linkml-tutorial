@@ -1,0 +1,8 @@
+persons:
+  - id: ORCID:1234
+    full_name: Clark Kent
+    age: 90
+    phone: '9740196199'
+  - id: ORCID:5678
+    age: 33
+    full_name: Lois Lane
